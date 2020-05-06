@@ -1,0 +1,163 @@
+/*Menu*/
+.navbar{
+    background-color: #ffe0ac;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: #6886c5;
+}
+.logo{
+    width: 3%;
+    height: 3%;
+}
+.logo_tops{
+    width: 10%;
+    height: 25%;
+    padding-top: 50px;
+}
+#home{
+    padding-bottom: 50px;
+    background-color: #f9f9f9;
+}
+
+/*car*/
+.carousel_photo{
+    width: 100%;
+    
+}
+
+/*info_slider*/
+.info_photo{
+    width: 50%;
+    height: 50%;
+}
+.info_slider{
+    width: 50%;
+    height: 50%;
+}
+
+/*Inner Area*/
+.service_title{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
+.inner_area{
+   
+   background-color: #ffacb7;
+   padding: 10px;
+   border-radius: 10px;
+}
+.inner_photos{
+    width:100%;
+    height: 75%;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #ffe0ac;
+
+}
+.inner_text{
+    text-align: center;
+    font-weight: 200;
+}
+
+
+
+/*About*/
+#about{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #ffe0ac;
+}
+.about-title{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.our_facilty{
+    text-align: center;
+}
+.our_philosphy{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+/*Our Fac*/
+.staff{
+    padding-bottom: 50px;
+}
+.staff_info{
+    text-align: center;
+}
+.head_shot{
+    width: 100%;
+    height: 35%;
+    border-top-style: solid;
+    border-color: #ffacb7;
+    border-width: 10px;
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+    
+}
+.staff_title{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.inner_info{
+    text-align: center;
+    background-color: #6886c5;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.girl_photo{
+    
+}
+
+
+/*Tuitiom List*/
+.tuition_list{
+    list-style-type: none;
+    text-align: center;
+}
+.tuition_title{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.button1{
+    margin-left: 30px; 
+}
+.tuition_plan{
+    text-align: center;
+}
+#tuition{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: #ffacb7;
+}
+.tuition_graphic{
+    background-image: url(".img/logo2_Trans.png");
+}
+.tuition_pic{
+    width: 50%;
+}
+/*Contact*/
+#contact{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-image: url(./img/background.jpg);
+}
+.contact_us{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+/*Footer*/
+.foot_note{
+    text-align: center;
+    padding-top: 50px;
+}
+footer{
+    background-color: #6886c5;
+}
